@@ -482,7 +482,7 @@
 <maps key="taggingpreset.entries" xmlns="http://josm.openstreetmap.de/preferences-1.0">
     <map>
       <tag key="title" value="trufi_presets"/>
-      <tag key="url" value="https://github.com/trufi-association/josm_config/archive/refs/tags/v2.0.1.zip"/>
+      <tag key="url" value="https://github.com/trufi-association/josm_config/archive/refs/tags/v2.0.2.zip"/>
     </map>
   </maps>
 <tag key="toggleDialogs.width" value="498" xmlns="http://josm.openstreetmap.de/preferences-1.0"/>

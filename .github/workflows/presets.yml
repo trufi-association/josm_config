@@ -1,4 +1,4 @@
-name: Nouakchott Package
+name: presets Package
 
 on:
   push:
